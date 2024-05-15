@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fredrick Doghor</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate tech enthusiast from Nigeria</h3>
 
 - 🔭 I’m currently working on **building my github profile with data science ,ai automation projects**
 
