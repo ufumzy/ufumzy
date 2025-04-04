@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **anything related to data science,web scraping ,automation and server deployment and i would be happy to help**
 
-- 📫 How to reach me **email me or contact me on linkedin**
+- 📫 How to reach via **email fredrickdoghor@gmail.com or contact me on linkedin**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/fredrick-doghor-77246651/](https://www.linkedin.com/in/fredrick-doghor-77246651/)
 
