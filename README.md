@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm Fredrick Doghor</h1>
 <h3 align="center">A passionate tech enthusiast from Nigeria</h3>
 
-- 🔭 I’m currently working on **building my github profile with data science ,ai automation projects**
+- 🔭 I'm currently working on **PHP/Laravel/CodeIgniter projects, data science & AI automation**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I'm currently learning **Kubernetes, Terraform & serverless architecture**
 
-- 👯 I’m looking to collaborate on **any data science or AI automation related project**
+- 👯 I'm looking to collaborate on **web apps, data science, AI automation or server projects**
 
-- 💬 Ask me about **anything related to data science,web scraping ,automation and server deployment and i would be happy to help**
+- 💬 Ask me about **PHP, Laravel, CodeIgniter, MySQL, data science, web scraping, automation, server deployment**
 
-- 📫 How to reach via **email fredrickdoghor@gmail.com or contact me on linkedin**
+- 📫 How to reach me via **email [fredrickdoghor@gmail.com](mailto:fredrickdoghor@gmail.com)** or **LinkedIn**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/fredrick-doghor-77246651/](https://www.linkedin.com/in/fredrick-doghor-77246651/)
 
-- ⚡ Fun fact **i enjoy playing Football when i'm not coding**
+- ⚡ Fun fact **I enjoy playing Football when I'm not coding or debugging Laravel migrations**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
