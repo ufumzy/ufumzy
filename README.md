@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fredrick Doghor</h1>
 <h3 align="center">A passionate tech enthusiast from Nigeria</h3>
 
-- 🔭 I'm currently working on **PHP/Laravel/CodeIgniter projects, data science & AI automation**
+- 🔭 I'm currently working on **PHP/Laravel/CodeIgniter projects, data science,serverless api & AI automation**
 
-- 🌱 I'm currently learning **Kubernetes, Terraform & serverless architecture**
+- 🌱 I'm currently learning **Kubernetes, Terraform **
 
 - 👯 I'm looking to collaborate on **web apps, data science, AI automation or server projects**
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/fredrick-doghor-77246651/](https://www.linkedin.com/in/fredrick-doghor-77246651/)
 
-- ⚡ Fun fact **I enjoy playing Football when I'm not coding or debugging Laravel migrations**
+- ⚡ Fun fact **I enjoy playing Football when I'm not coding or debugging app and servers**
 
 
 <h3 align="left">Connect with me:</h3>
