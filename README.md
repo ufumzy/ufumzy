@@ -7,7 +7,7 @@
 
 - 👯 I'm looking to collaborate on **web apps, data science, AI automation or server projects**
 
-- 💬 Ask me about **PHP, Laravel, CodeIgniter, MySQL, data science, web scraping, automation, server deployment**
+- 💬 Ask me about **PHP,Node js,Express,Python ,N8n,Laravel, CodeIgniter, MySQL, data science, web scraping, automation, server deployment**
 
 - 📫 How to reach me via **email [fredrickdoghor@gmail.com](mailto:fredrickdoghor@gmail.com)** or **LinkedIn**
 
